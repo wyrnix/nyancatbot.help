@@ -4,49 +4,33 @@
 
 # 🌈 Nyan Cat Bot  
 
-> A colorful Discord bot that brings ✨fun, moderation, and memes✨ to your community.  
-> Add joy to your server with Nyan Cat’s rainbow trail! 🐱🌈  
+> A colorful Discord bot bringing fun, coins, and moderation to your server!  
+> Catch fish, collect coins, and keep your server safe 🌟🐱  
 
 ---
 
 ## 🐱 About Me  
-Nyan Cat Bot is designed to keep your server safe and fun.  
-It mixes moderation tools with entertainment commands so you can manage your community *and* keep it lively.  
+Nyan Cat Bot is designed to make your server lively and organized.  
+It has fun games for all members and moderation tools for admins.  
+Rainbow vibes included 🌈✨  
 
 ---
 
 ## ⚡ Slash Commands  
 
-### 🎉 Fun Commands  
-- `/meow` → Sends a random Nyan Cat gif.  
-- `/rainbow` → Drops a rainbow-themed text message.  
-- `/nyan-fact` → Get a random fun fact about Nyan Cat.  
+### 🧑‍🤝‍🧑 All Members
+- `/fish` → Catch fish and earn coins.  
+- `/coins` → Check your current coins balance.  
+- `/help` → Shows this help menu.  
+- `/leaderboard` → See the top coin holders.  
+- `/transfer-coins <user> <amount>` → Send coins to another member.  
 
-### 🔒 Moderation Commands  
+### 🔒 Administrators
 - `/ban <user>` → Bans a user from the server.  
 - `/kick <user>` → Kicks a user.  
-- `/warn <user> <reason>` → Sends a private warning to a user.  
-
-### ⚙️ Utility Commands  
-- `/ping` → Check bot response time.  
-- `/info` → Shows info about the bot and server.  
-- `/help` → Opens this help menu.  
-
----
-
-## 📜 Detailed Command Descriptions  
-
-### `/meow`  
-Brightens the chat by sending a random Nyan Cat gif.  
-
-### `/rainbow`  
-Creates a colorful rainbow message for everyone to vibe with.  
-
-### `/nyan-fact`  
-Provides a fun Nyan Cat-related fact.  
-
-### `/ban`  
-Bans the specified user. Use responsibly — Nyan Cat’s claws are sharp!  
+- `/mute <user>` → Mutes a user.  
+- `/get-coins <user>` → Check a user’s coins.  
+- `/clear <number>` → Clear messages from a channel.  
 
 ---
 
@@ -59,5 +43,12 @@ Bans the specified user. Use responsibly — Nyan Cat’s claws are sharp!
   <a href="https://discord.gg/pXudEE2bmG" target="_blank">
     <img src="https://img.shields.io/badge/Join%20Support%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Support Server"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/All%20Members-Fun%20Commands-orange?style=for-the-badge" alt="All Members"/>
+  <img src="https://img.shields.io/badge/Admins-Moderation-red?style=for-the-badge" alt="Admins"/>
 </p>
 
